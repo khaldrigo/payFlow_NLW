@@ -1,6 +1,6 @@
 # payflow
 
-A new Flutter project.
+Projeto em Flutter desenvolvido durante a semana NLW Together com a orientação do educator Gabul.
 
 ## Getting Started
 
